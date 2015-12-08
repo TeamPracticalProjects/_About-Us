@@ -17,9 +17,9 @@ It's hard to write a full manifesto, but we did write a few words that capture o
 
 **Step-by-step**.  Our projects come complete with step by step instructions for assembly and installation. They are appropriate for novices as well as advanced hobbyists and professionals.
 
-**Team**.  Our organization is a team of open source developer. We are not a company nor a supplier. We hope our projects improve some small parts of the world.
+**Team**.  Our organization is a team of open source developers. We are not a company nor a supplier. We work together collaboratively. No drama, no egos. We hold the hope that our projects improve some small parts of the world.
 
-December 2015
+December 2015  
 Bob Glicksman and Jim Schrempp
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
